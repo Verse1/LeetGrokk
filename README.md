@@ -152,7 +152,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
 - [ ] https://leetcode.com/problems/find-k-pairs-with-smallest-sums/ 
 
-## Pattern: 0/1 Knapsack (Dynamic Programming
+## Pattern: 0/1 Knapsack (Dynamic Programming)
 - [ ] https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/RM1BDv71V60 (Free)
 - [ ] https://leetcode.com/problems/partition-equal-subset-sum/ or https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/3jEPRo5PDvx (Free)
 - [ ] https://leetcode.com/problems/subarray-sum-equals-k/ (Similar) or https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/3j64vRY6JnR (Free)
