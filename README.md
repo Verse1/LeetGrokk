@@ -152,7 +152,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
 - [ ] https://leetcode.com/problems/find-k-pairs-with-smallest-sums/ 
 
-## Pattern: 0/1 Knapsack
+## Pattern: 0/1 Knapsack (Dynamic Programming
 - [ ] https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/RM1BDv71V60 (Free)
 - [ ] https://leetcode.com/problems/partition-equal-subset-sum/ or https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/3jEPRo5PDvx (Free)
 - [ ] https://leetcode.com/problems/subarray-sum-equals-k/ (Similar) or https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/3j64vRY6JnR (Free)
@@ -160,7 +160,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/combination-sum-ii/ or https://leetcode.com/problems/combination-sum-iv/ (Blind)
 - [ ] https://leetcode.com/problems/target-sum/
 
-## Pattern: Topological Sort
+## Pattern: Topological Sort (Graph)
 - Couldn't find Topological Sort
 - [ ] https://leetcode.com/problems/course-schedule/ (Blind)
 - [ ] https://leetcode.com/problems/course-schedule-ii/ 
@@ -168,6 +168,12 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/alien-dictionary/ (Blind and Premium)
 - [ ] https://leetcode.com/problems/sequence-reconstruction/description/
 - [ ] https://leetcode.com/problems/minimum-height-trees/
+
+## Pattern: Multi-threaded
+- [ ] https://leetcode.com/problems/same-tree/ (Blind)
+- [ ] https://leetcode.com/problems/invert-binary-tree/ (Blind)
+- [ ] https://leetcode.com/problems/binary-search-tree-iterator/
+
 
 ## Miscellaneous
 
