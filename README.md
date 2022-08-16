@@ -27,8 +27,15 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/minimum-window-substring/ (Blind)
 - [ ] https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 
+## Pattern: Islands(Matrix Traversal)
+- [ ] https://leetcode.com/problems/number-of-islands/ (Blind)
+- [ ] https://leetcode.com/problems/max-area-of-island/
+- [ ] https://leetcode.com/problems/flood-fill/
+- [ ] https://leetcode.com/problems/number-of-closed-islands/
+- [ ] https://leetcode.com/problems/island-perimeter/
+- [ ] https://leetcode.com/problems/number-of-distinct-islands/
+- [ ] https://leetcode.com/problems/detect-cycles-in-2d-grid/
 ## Pattern: Two Pointers
-
 - [ ] https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 - [ ] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 - [ ] https://leetcode.com/problems/squares-of-a-sorted-array/
